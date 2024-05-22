@@ -17,4 +17,4 @@ NPM: 8.19.2
 Tested thru Remix and Hardhat 
 
 **Polygon**
-Utilized Polygon to test all send and recieve funcions.
+Utilized Polygon to test all send and recieve functions.

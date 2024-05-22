@@ -21,11 +21,8 @@ const Analytic = () => {
                 <div className="crumina-module crumina-counter-item">
                   <h4 className="counter-title">Market price</h4>
                   <p className="counter-text">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Eligendi ut architecto, dolore consequatur consequuntur
-                    harum veniam consectetur sequi fuga molestias maiores
-                    aspernatur repellat ea obcaecati iure. Blanditiis ab dolore
-                    facere?
+                    
+Market price is the current price at which an asset, good, or service can be bought or sold. It's determined by the dynamic interaction of supply and demand in the market. When demand exceeds supply, prices tend to rise, and when supply surpasses demand, prices typically fall. Market prices are crucial indicators for buyers and sellers, guiding their decisions and shaping overall economic activity.
                   </p>
                   <div className="counter-line"></div>
                 </div>
@@ -38,11 +35,7 @@ const Analytic = () => {
                   </div>
                   <h4 className="counter-title">Market price</h4>
                   <p className="counter-text">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Eligendi ut architecto, dolore consequatur consequuntur
-                    harum veniam consectetur sequi fuga molestias maiores
-                    aspernatur repellat ea obcaecati iure. Blanditiis ab dolore
-                    facere?
+                  In the cryptocurrency market, prices are particularly volatile due to the nascent nature of the technology and the speculative nature of the assets. The limited supply of many cryptocurrencies, like Bitcoin, coupled with increasing demand, can drive prices up rapidly. However, negative news, regulatory changes, or security breaches can trigger equally swift declines. Market sentiment, often amplified by social media and online communities, also plays a significant role in cryptocurrency price movements.
                   </p>
                   <div className="counter-line"></div>
                 </div>
@@ -51,11 +44,7 @@ const Analytic = () => {
                 <div className="crumina-module crumina-counter-item">
                   <h4 className="counter-title">Market price</h4>
                   <p className="counter-text">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Eligendi ut architecto, dolore consequatur consequuntur
-                    harum veniam consectetur sequi fuga molestias maiores
-                    aspernatur repellat ea obcaecati iure. Blanditiis ab dolore
-                    facere?
+                  The decentralized nature of cryptocurrencies means there's no central authority controlling their value, making them susceptible to price manipulation and market bubbles.  Investors and traders must carefully analyze market trends, technological developments, and regulatory landscapes to navigate this volatile market.
                   </p>
                   <div className="counter-line"></div>
                 </div>
@@ -67,11 +56,7 @@ const Analytic = () => {
                   </div>
                   <h4 className="counter-title">Market price</h4>
                   <p className="counter-text">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Eligendi ut architecto, dolore consequatur consequuntur
-                    harum veniam consectetur sequi fuga molestias maiores
-                    aspernatur repellat ea obcaecati iure. Blanditiis ab dolore
-                    facere?
+                  Despite the risks, the potential for high returns has attracted many investors to cryptocurrencies. As the market matures and gains wider acceptance, we can expect a degree of price stabilization, but volatility will likely remain a defining feature of this evolving asset class.
                   </p>
                   <div className="counter-line"></div>
                 </div>

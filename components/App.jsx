@@ -9,25 +9,19 @@ const App = () => {
             <header className="crumina-module crumina-heading heading--h2 heading--with-decoration">
               <div className="heading-sup-title">Top-5 Cryptocurrency</div>
               <h2 className="heading-title weight-normal">
-                Statistic of currencies on{" "}
-                <span className="weight-bold">all your deveices</span>
+                Statistics of Currencies on{" "}
+                <span className="weight-bold">All Your Devices</span>
               </h2>
 
               <div className="heading-text">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit
-                nesciunt omnis illum atque, rerum illo tempora similique
-                voluptatum expedita aliquid ratione vero suscipit reprehenderit
-                iste ut laudantium dolorum quos dolor.
+                
+The diversity of currencies held on devices reflects the increasing globalization and digitalization of finance. From major currencies like the US Dollar and Euro to emerging cryptocurrencies like Bitcoin and Ethereum, devices now serve as wallets for a wide array of assets. This trend is driven by factors such as international travel, cross-border e-commerce, and the growing popularity of decentralized finance (DeFi) platforms. As technology continues to advance, we can expect even greater diversification of currencies held on devices, with potential implications for traditional banking systems and global financial markets.
               </div>
             </header>
 
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos,
-              nulla non recusandae eligendi delectus sed excepturi impedit
-              corrupti, ad labore voluptatem consectetur. Mollitia magni dolores
-              doloremque. Blanditiis vitae tempore veritatis. excepturi impedit
-              corrupti, ad labore voluptatem consectetur. Mollitia magni dolores
-              doloremque. Blanditiis vitae tempore veritatis.
+            
+Cryptocurrency markets exhibit a wide range of price fluctuations, with statistics revealing both extreme volatility and significant growth potential. Market capitalization, a key metric, reflects the total value of a cryptocurrency, while trading volume indicates the level of market activity. 
             </p>
 
             <div className="btn-market-wrap mt60">

@@ -49,10 +49,7 @@ const Footer = () => {
                 <FooterICON />
               </a>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Suscipit tempora quaerat maxime mollitia provident aperiam
-                nostrum qui minus, porro libero accusamus hic est fugit! Vel
-                iusto quisquam perferendis amet ipsa?
+              Woox, the revolutionary new cryptocurrency token, is poised to disrupt the market with its innovative approach to decentralized finance (DeFi). Built on a cutting-edge blockchain platform, Woox offers lightning-fast transaction speeds, minimal fees, and unparalleled security. 
               </p>
             </div>
 
@@ -86,10 +83,10 @@ const Footer = () => {
                 <div className="design-wrap">
                   <div className="sup-title">Design By</div>
                   <a
-                    href="https://theblockchaincoders.com"
+                    href="Alexander Ten"
                     className="logo-title"
                   >
-                    @theblockchaincoders
+                    Alexander Ten
                   </a>
                 </div>
               </div>
@@ -102,7 +99,7 @@ const Footer = () => {
                     href="https://theblockchaincoders.com"
                     className="logo-title"
                   >
-                    The Blockchaoncoders
+                    Alexander Ten
                   </a>
                 </div>
               </div>

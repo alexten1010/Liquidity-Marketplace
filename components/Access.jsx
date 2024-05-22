@@ -14,17 +14,14 @@ const Access = () => {
               <header className="crumina-module crumina-heading heading--h2 heading--with-decoration">
                 <div className="heading-sup-title">Top-5 Cryptocurrency</div>
                 <h2 className="heading-title weight-normal">
-                  Access
+                
                   <span className="weight-bold">
                     analytical market & price data
                   </span>
                 </h2>
 
                 <div className="heading-text">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit
-                  nesciunt omnis illum atque, rerum illo tempora similique
-                  voluptatum expedita aliquid ratione vero suscipit
-                  reprehenderit iste ut.
+                Analytical market and price data provides valuable insights into the financial landscape, enabling investors, businesses, and consumers to make informed decisions. This data encompasses a wide range of information, including historical price trends, trading volumes, market sentiment analysis, and forecasts. 
                 </div>
               </header>
             </div>

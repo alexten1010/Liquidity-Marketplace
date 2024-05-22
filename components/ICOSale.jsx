@@ -18,22 +18,17 @@ const ICOSale = ({ tokenSale, nativeToken, buyToken }) => {
             <header className="crumina-module crumina-heading heading--h2 heading--with-decoration">
               <img src="img/dots.png" className="responsive-dots mb30" alt="" />
               <h2 className="heading-title weight-normal">
-                Hurry to invest
-                <span className="weight-bold">in cryptocurrency</span>
+                
+                <span className="weight-bold"> Run into Cryptocurrency</span>
               </h2>
 
               <div className="heading-text">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit
-                nesciunt omnis illum atque .
+                The Countdown to Crypto Wealth is now .
               </div>
             </header>
 
             <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus,
-              sequi id! Quae tempora iure repellat beatae facilis ipsa eius, aut
-              ut porro officiis quas aperiam animi numquam, deleniti nam id.
-              repellat beatae facilis ipsa eius, aut ut porro officiis quas
-              aperiam animi numquam, deleniti nam id
+            The cryptocurrency market is a dynamic and ever-evolving landscape, with opportunities for significant gains arising constantly. As adoption grows and blockchain technology matures, those who seize the moment to invest stand to reap the benefits of this burgeoning asset class.
             </p>
 
             <div className="crumina-module crumina-counter-item counter--icon-left mt60">

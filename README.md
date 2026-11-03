@@ -5,12 +5,9 @@ Created a Crypto Liquidity Marketplace With ICO (DeFi Project) Using NextJs, Uni
 This is a liquidity Marketplace including ERC20 Token sale ICO where you can sell your crypto token, in which you can provide users to create liquidity of any 2 tokens and also find liquidity pool address on any blockchain.
 
 
-**Project Overview**
-![alt text](https://www.daulathussain.com/wp-content/uploads/2024/01/create-token-liquidity-marketplace.jpg)
-
 
 **Running   NodeJs:**
-v18.12.1
+v22.00
 NPM: 8.19.2
 
 **RemixID**
@@ -20,4 +17,4 @@ Tested thru Remix and Hardhat
 Utilized Polygon to test all send and recieve functions.
 
 
-[Live Project Here](https://664e5a82f3da573a73e5c0b5--liquidity-marketplace-project.netlify.app/)
+[Live Project Here ([https://liquidity-marketplace-project.netlify.app/])
